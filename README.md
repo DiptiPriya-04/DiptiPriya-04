@@ -1,9 +1,27 @@
-- 👋 Hi, I’m @DiptiPriya-04
-- 👀 I’m interested in Computer science
-- 🌱 I’m currently learning Data Structure And Algorithms
-- 💞️ I’m looking to collaborate on Open Source Project involving Web Development
-- 📫 How to reach me Please Connect me https://https://www.linkedin.com/in/dipti-priya-a314302b1/?
-<!---
-DiptiPriya-04/DiptiPriya-04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-# Hare Krishna, I'm Dipti Priya 👋
+
+🎓 B.Tech IT Student  
+💻 Learning Web Development and Data Structures  
+🚀 Currently improving my Development skills
+
+## Technologies I'm Learning
+
+- MongoDB
+- Express
+- React
+- JavaScript
+- HTML
+- CSS
+- Git & GitHub
+- MERN Stack 
+
+## Current Focus
+
+- Building small web projects
+- Mern fundamentals
+
+## My Learning Repositories
+
+- MERN Thinkboard Project
+- Guess Number JS Project
+- AI Powered Customer Support Quality Auditor
