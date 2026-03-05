@@ -2,7 +2,7 @@ HARE KRISHNA
 
 I'm Dipti Priya 👋
 
-🎓 B.Tech CSE Student  
+🎓 B.Tech IT Student  
 💻 Learning Web Development and Data Structures  
 🚀 Currently improving my JavaScript skills  
 
@@ -24,16 +24,15 @@ I'm Dipti Priya 👋
 
 ## 🎯 Current Focus
 
-- JavaScript fundamentals
-- DOM manipulation
+- MERN Fundamentals
 - Building small web projects
 
 ---
 
 ## 📂 My Learning Repositories
 
-- JavaScript Notes
 - MERN Thinkboard Project
+- JavaScript Notes
 - AI Powered Customer Support Quality Auditor
 
 ---
