@@ -1,4 +1,6 @@
-# Hi, I'm Dipti Priya 👋
+HARE KRISHNA 
+
+I'm Dipti Priya 👋
 
 🎓 B.Tech CSE Student  
 💻 Learning Web Development and Data Structures  
@@ -36,8 +38,3 @@
 
 ---
 
-## 🎯 Goals for 2026
-
-- Become confident in JavaScript
-- Build full stack MERN projects
-- Prepare for software engineering roles
