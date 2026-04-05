@@ -6,9 +6,8 @@
 
 💻 Aspiring Full Stack Developer (MERN)
 
-🚀 Currently focused on JavaScript, Backend Development & DSA
+🚀 Currently focused on Backend Development & DSA
 
----
 
 ## 🚀 Tech Stack
 
@@ -42,7 +41,6 @@
 * High-quality projects
 * Clean and professional repositories
 
----
 
 ## 🤝 Connect With Me
 
