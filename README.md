@@ -3,7 +3,9 @@
 👋 Hi, I'm Dipti Priya
 
 🎓 B.Tech IT Student
+
 💻 Aspiring Full Stack Developer (MERN)
+
 🚀 Currently focused on JavaScript, Backend Development & DSA
 
 ---
