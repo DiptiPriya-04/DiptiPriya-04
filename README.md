@@ -1,6 +1,6 @@
 # 🙏 Hare Krishna
 
-# Hi, I'm Dipti Priya 👋
+# I'm Dipti Priya 👋
 
 🎓 B.Tech IT Student
 💻 Aspiring Full Stack Developer (MERN)
@@ -23,10 +23,21 @@
 
 ---
 
-## 🏆 LeetCode Stats
+## 🏅 LeetCode Badges
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Dipti_04?theme=dark&font=Karma&ext=contest" />
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-50-lg.png" width="200"/>
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-lg.png" width="200"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DiptiPriya-04&show_icons=true&theme=tokyonight" height="170"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiptiPriya-04&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
 ---
